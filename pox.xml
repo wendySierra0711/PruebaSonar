@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>wendySierra0711_PruebaSonar</sonar.projectKey>
+  <sonar.organization>wendysierra0711</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
